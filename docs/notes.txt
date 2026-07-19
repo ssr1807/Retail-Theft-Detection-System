@@ -1,0 +1,14 @@
+Final Base Paper:
+YOLOv8-DeepSORT: A High-Performance Framework for Real-Time Multi-Object Tracking with Attention and Adaptive Optimization
+
+Our Improvements:
+1. Suspicious behaviour scoring
+2. Retail intelligence layer
+3. Alert generation
+4. Movement history analysis
+
+Future Scope:
+1. Multi-camera tracking
+2. Store path reconstruction
+3. Cross-camera re-identification
+4. Heatmaps and analytics

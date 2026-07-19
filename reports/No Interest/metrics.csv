@@ -1,0 +1,2 @@
+frames_processed,customers_detected,unique_customers,average_fps,processing_time_seconds,average_risk,maximum_risk,alerts_generated,tp,tn,fp,fn,accuracy,precision,recall,f1_score,specificity
+675,484,6,7.307600998894717,92.36957520013675,1.6528925619834711,25.0,0,0,1,0,0,1.0,0.0,0.0,0.0,1.0

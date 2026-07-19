@@ -1,0 +1,22 @@
+---------------------------------
+Retail Theft Detection Evaluation
+
+Frames Processed: 488
+Customers Detected: 387
+Unique Customer IDs: 2
+Average FPS: 6.94
+Processing Time: 70.28 seconds
+Average Risk: 39.84
+Maximum Risk: 100.00
+Alerts Generated: 0
+
+TP: 1
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+Specificity: 0.0000
+---------------------------------

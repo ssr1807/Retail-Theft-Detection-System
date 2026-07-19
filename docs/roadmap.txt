@@ -1,0 +1,14 @@
+22 June
+- YOLOv8 detection
+
+23 June
+- DeepSORT tracking
+
+24 June
+- Suspicious behaviour logic
+
+25 June
+- UI and outputs
+
+26 June
+- Testing and final changes
